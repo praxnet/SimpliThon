@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4660F531-0774-49CF-AED5-A4E2283378C5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Simplithon</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E5F4FECB1B1EC911E9DB3A05942CFAB0D6B2F8AF</key>
+		<string>https://github.com/VinayakDeshpande11/SimpliThon.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Simplithon/Simplithon.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E5F4FECB1B1EC911E9DB3A05942CFAB0D6B2F8AF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/VinayakDeshpande11/SimpliThon.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E5F4FECB1B1EC911E9DB3A05942CFAB0D6B2F8AF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E5F4FECB1B1EC911E9DB3A05942CFAB0D6B2F8AF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SimpliThon</string>
+		</dict>
+	</array>
+</dict>
+</plist>
